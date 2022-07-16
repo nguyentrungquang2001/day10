@@ -1,0 +1,18 @@
+.container {
+  margin-top: 10%;
+}
+.product_img > img {
+  width: 100%;
+}
+.product_name {
+  display: flex;
+}
+.product_name > .product_img {
+  width: 20%;
+}
+.inf {
+  margin-left: 20px;
+}
+.product_form {
+  margin-top: 20px;
+}

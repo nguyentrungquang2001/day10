@@ -1,0 +1,29 @@
+.product_img > img {
+  width: 100%;
+}
+.product_name {
+  font-size: 22px;
+  color: #464646;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 4px;
+  line-height: 33px;
+}
+.product_start {
+  color: #ffc107;
+}
+.product_add {
+  font-size: 13px;
+  margin-bottom: 2px;
+}
+.col-6 {
+  margin-top: 10%;
+}
+.product_information > div {
+  margin-bottom: 20px;
+}
+.product_btn > a {
+  margin-left: 10%;
+}
